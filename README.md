@@ -1,2 +1,2 @@
-# Shilpa-collab-bot-
+# Numpy
 https://github.com/nicknochnack/ImageClassification.git
